@@ -5,7 +5,7 @@ rule Recordbreaker : loader stealer
         date        = "2022-06-04"
         description = "Recordbreaker is an information stealer capable of downloading and executing secondary payloads. It has been spreading through fake software cracks and keygens since May 2022."
         modified    = "2022-06-09"
-        reference   = ""
+        reference   = "https://twitter.com/_FirehaK/status/1534997159937982464"
         tlp         = "WHITE"
 
     strings:

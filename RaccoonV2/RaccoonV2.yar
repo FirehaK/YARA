@@ -20,5 +20,5 @@ rule RaccoonV2 : loader stealer
 
     condition:
         uint16(0) == 0x5a4d
-        and all of them
+        and 6 of them
 }

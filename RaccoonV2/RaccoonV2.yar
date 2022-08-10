@@ -4,7 +4,7 @@ rule RaccoonV2 : loader stealer
         author      = "@_FirehaK <yara@firehak.com>"
         date        = "2022-06-04"
         description = "This rule detects Raccoon Stealer version 2.0 (called Recordbreaker before attribution). It has been spotted spreading through fake software cracks and keygens as far back as April 2022."
-        modified    = "2022-07-20"
+        modified    = "2022-08-10"
         reference   = "https://www.zerofox.com/blog/brief-raccoon-stealer-version-2-0/"
         tlp         = "WHITE"
 
